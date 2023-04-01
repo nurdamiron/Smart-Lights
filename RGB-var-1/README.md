@@ -22,3 +22,4 @@
     
     Следует отметить, что возможно управление цветом светодиодной ленты. Ниже приведены все варианты, которые мы можем рассмотреть.
 ![LedStrip12V_bb](https://user-images.githubusercontent.com/70795559/229262161-8c656d96-7f42-4a7e-a8d5-83b7279c2242.jpg)
+![Untitled](https://user-images.githubusercontent.com/70795559/229262216-9a4528e0-5a25-4743-91c5-7767873f7588.png)
