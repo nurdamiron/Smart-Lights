@@ -2,7 +2,6 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-// Replace with your network credentials
 const char* ssid = "ESP";
 const char* password = "12345678";
 
