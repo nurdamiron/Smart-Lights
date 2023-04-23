@@ -5,7 +5,7 @@
 
 ### An ultrasonic sensor is used to detect motion on the stairs. When motion is detected, the LED strips turn on and remain on for a specified duration, after which they turn off. The duration of the LED strip's shine time can be adjusted through the web interface, along with the brightness level, number of stairs, and motion sensing state.
 
-### Requirements
+
 ### To replicate this project, you will need the following components:
 
 #### - ESP32 microcontroller
