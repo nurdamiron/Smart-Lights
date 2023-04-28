@@ -17,9 +17,6 @@ WebServer server(80);
 // Define the initial brightness of the LED strips (0-100)
 int brightness = 50;
 
-
-
-
 // Define the number of stairs and the duration of shine time
 int numStairs = 12;
 int shineDuration = 500;
