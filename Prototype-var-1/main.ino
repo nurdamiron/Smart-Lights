@@ -4,7 +4,6 @@
 
 const char* ssid = "ESP";
 const char* password = "12345678";
-
 // Create an instance of the WebServer class
 WebServer server(80);
 
